@@ -3,7 +3,7 @@ import hero from '../assets/images/illustration-hero.svg'
 const HeroSection = () => {
   return (
     <section className='w-[80%] mx-auto flex gap-6 mt-8 flex-col-reverse lg:flex-row items-center'>
-        <div className='[&>*]:w-[100%] lg:[&>*]:w-[90%] [&>*]:text-center lg:[&>*]:text-left lg:w-[45%] space-y-6 border- border-blue-300'>
+        <div className='[&>*]:w-[100%] lg:[&>*]:w-[95%] [&>*]:text-center lg:[&>*]:text-left lg:w-[50%] space-y-6 border- border-blue-300'>
           <h2 className=' font-bold text-VeryDarkBlue text-2xl md:text-4xl'>A Simple Bookmark Manager</h2>
           <p className=' text-GrayishBlue text-lg md:text-lg'>A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.</p>
 

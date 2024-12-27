@@ -14,8 +14,8 @@ Users should be able to:
   
 ### Links
 
-- Solution: [Solution here ](https://your-solution-url.com)
-- Live Site: [Live site here](https://your-live-site-url.com)
+- Solution: [Solution here ](https://www.frontendmentor.io/solutions/bookmark-landing-page-using-react-and-tailwind-css-S2t-GBHf6H)
+- Live Site: [Live site here](https://bookmark-landing-page-smoky.vercel.app/)
 
 ### Built with
 

@@ -13,7 +13,7 @@ const EasySharingTab = () => {
             </div>
 
             <div className='[&>*]:w-[100%] lg:[&>*]:w-[90%] [&>*]:text-center lg:[&>*]:text-left lg:w-[45%] space-y-6 '>
-              <h2 className=' font-bold text-VeryDarkBlue text-2xl md:text-2xl'>Share your bookmarks</h2>
+              <h2 className=' font-[500] text-VeryDarkBlue text-2xl md:text-2xl'>Share your bookmarks</h2>
               <p className=' text-GrayishBlue text-lg md:text-lg'>Easily share your bookmarks and collections with others. Create a shareable link that you can send at the click of a button.</p>
     
               <div className='flex gap-2 justify-center lg:justify-start'>

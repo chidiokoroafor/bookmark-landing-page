@@ -10,8 +10,8 @@ const FAQSection = () => {
     setSelected(prev => prev == id ? null : id)
   }
   return (
-    <section className='w-[90%] md:w-[60%] mx-auto mt-24 space-y-6'>
-        <h2 className='text-2xl font-bold text-VeryDarkBlue text-center'>Frequently Asked Questions</h2>
+    <section className='w-[90%] md:w-[60%] mx-auto mt-36 space-y-6'>
+        <h2 className='text-2xl font-[500] text-VeryDarkBlue text-center'>Frequently Asked Questions</h2>
         <p className='text-[16px] md:text-lg text-GrayishBlue text-center w-full md:w-[75%] mx-auto'>Here are some of our FAQs. If you have any other questions you’d like answered please feel free to email us.</p>
         <div>
           {questions.map((q)=>(

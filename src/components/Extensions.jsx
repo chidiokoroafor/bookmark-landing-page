@@ -1,8 +1,8 @@
 import { extensions } from '../utils/data'
 const Extensions = () => {
   return (
-     <section className='w-[80%] lg:w-[60%] mx-auto mt-10 space-y-6'>
-        <h2 className='text-2xl font-bold text-VeryDarkBlue text-center'>Download the extension</h2>
+     <section className='w-[80%] lg:w-[60%] mx-auto mt-24 space-y-6'>
+        <h2 className='text-2xl font-[500] text-VeryDarkBlue text-center'>Download the extension</h2>
         <p className='text-[16px] md:text-lg text-GrayishBlue text-center w-full md:w-[75%] mx-auto'>We’ve got more browsers in the pipeline. Please do let us know if you’ve got a favourite you’d like us to prioritize.</p>
 
         <div className='flex [&>*]:relative [&>*:nth-child(3)]:-bottom-16 [&>*:nth-child(2)]:-bottom-8  flex-col gap-4 md:flex-row justify-center mt-6'>

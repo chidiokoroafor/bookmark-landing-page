@@ -11,7 +11,7 @@ const SimpleBookmarkingTab = () => {
             </div>
 
             <div className='[&>*]:w-[100%] lg:[&>*]:w-[90%] [&>*]:text-center lg:[&>*]:text-left lg:w-[50%] space-y-6 '>
-              <h2 className=' font-bold text-VeryDarkBlue text-2xl md:text-2xl'>Bookmark in one click</h2>
+              <h2 className=' font-[500] text-VeryDarkBlue text-2xl md:text-2xl'>Bookmark in one click</h2>
               <p className=' text-GrayishBlue text-lg md:text-lg'>Organize your bookmarks however you like. Our simple drag-and-drop interface gives you complete control over how you manage your favourite sites.</p>
     
               <div className='flex gap-2 justify-center lg:justify-start'>

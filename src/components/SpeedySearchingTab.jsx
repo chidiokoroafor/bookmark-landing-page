@@ -14,7 +14,7 @@ const SpeedySearchingTab = () => {
 
 
             <div className='[&>*]:w-[100%] lg:[&>*]:w-[90%] [&>*]:text-center lg:[&>*]:text-left lg:w-[45%] space-y-6 border- border-blue-300'>
-              <h2 className=' font-bold text-VeryDarkBlue text-2xl md:text-2xl'>Intelligent search</h2>
+              <h2 className=' font-[500] text-VeryDarkBlue text-2xl md:text-2xl'>Intelligent search</h2>
               <p className=' text-GrayishBlue text-sm md:text-lg'>Our powerful search feature will help you find saved sites in no time at all. No need to trawl through all of your bookmarks.</p>
     
               <div className='flex gap-2 justify-center lg:justify-start'>

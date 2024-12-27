@@ -6,8 +6,8 @@ import SpeedySearchingTab from "./SpeedySearchingTab"
 const FeaturesSection = () => {
     const [activeTab, setActiveTab] = useState("Simple Bookmarking")
   return (
-     <section className='w-[80%] mx-auto mt-10 space-y-6'>
-            <h2 className='text-3xl font-bold text-VeryDarkBlue text-center'>Features</h2>
+     <section className='w-[80%] mx-auto mt-24 space-y-6'>
+            <h2 className='text-3xl font-[500] text-VeryDarkBlue text-center'>Features</h2>
             <p className='text-sm md:text-lg text-GrayishBlue text-center w-full md:w-[70%] mx-auto'>Our aim is to make it quick and easy for you to access your favourite websites. Your bookmarks sync between your devices so you can access them on the go.</p>
             <div className='flex justify-center flex-col md:flex-row'>
             {

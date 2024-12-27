@@ -1,7 +1,7 @@
 
 const ContactSection = () => {
   return (
-   <section className='py-16 bg-SoftBlue text-white mt-12 space-y-6 '>
+   <section className='py-16 bg-SoftBlue text-white mt-28 space-y-6 '>
         <p className='text-center text-sm tracking-[5px] uppercase'>35,000+ already joined</p>
         <h3 className='text-center text-3xl font-[500] max-w-[400px] mx-auto'>Stay up-to-date with what we’re doing</h3>
         <div className='flex flex-col sm:flex-row justify-center gap-2 px-4'>
