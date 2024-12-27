@@ -11,7 +11,7 @@ const Extensions = () => {
             return <div className={'shadow-md w-[90%] mx-auto  rounded-lg'} key={ext.browser}>
               <img className='mx-auto mt-8' src={ext.icon} alt="" />
               <div className='mt-6 text-center space-y-2'>
-                <h3 className='font-bold text-xl'>Add to {ext.browser}</h3>
+                <h3 className='font-[500] text-xl'>Add to {ext.browser}</h3>
                 <p className='text-GrayishBlue text-sm'>Minimum version {ext.minVersion}</p>
               </div>
                 <div className='border mt-6 border-dotted border-b-4 border-collapse' ></div>
