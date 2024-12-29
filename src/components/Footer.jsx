@@ -4,7 +4,7 @@ import TwitterIcon from '../utils/svgs/TwitterIcon'
 
 const Footer = () => {
   return (
-    <footer className='bg-VeryDarkBlue p-4 '>
+    <footer className='bg-VeryDarkBlue p-8 '>
         <div className='w-[80%] flex flex-col md:flex-row justify-between items-center mx-auto gap-8'>
         <div className='flex flex-col md:flex-row gap-4 items-center'>
         <WhiteBookmarlLogo />
